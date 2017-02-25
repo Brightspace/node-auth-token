@@ -1,4 +1,6 @@
 # brightspace-auth-token
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Brightspace/node-auth-token.svg)](https://greenkeeper.io/)
 [![Build
 Status](https://travis-ci.org/Brightspace/node-auth-token.svg?branch=master)](https://travis-ci.org/Brightspace/node-auth-token)
 
